@@ -1,6 +1,10 @@
 __pycache__/
 .ipynb_checkpoints
+*.ipynb
 __pypackages__/
+sphinx-3.4.1/
+polygon/
+test1.index*
 
 # Environments
 .env
