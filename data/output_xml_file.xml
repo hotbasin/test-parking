@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <address>Москва, шоссе Варшавское, 120 сооружение</address>
+  </row>
+  <row>
+    <index>1</index>
+    <address>Москва, шоссе Варшавское, д 120 к 2</address>
+  </row>
+  <row>
+    <index>2</index>
+    <address>Москва, ул. Паршина, 14</address>
+  </row>
+  <row>
+    <index>3</index>
+    <address>Москва, Ленинский пр-т, 67к2</address>
+  </row>
+  <row>
+    <index>4</index>
+    <address>Москва, ул. дмитриевского, 16</address>
+  </row>
+  <row>
+    <index>5</index>
+    <address>Москва, улица Эдварда Грига, 17</address>
+  </row>
+  <row>
+    <index>6</index>
+    <address>Москва, ул. Академика Анохина, 56</address>
+  </row>
+  <row>
+    <index>7</index>
+    <address>Москва, Волгоградский проспект, 43к3</address>
+  </row>
+  <row>
+    <index>8</index>
+    <address>Москва, ул. Вилиса Лациса, 30с2</address>
+  </row>
+  <row>
+    <index>9</index>
+    <address>Москва, ул. Вилиса Лациса, 42</address>
+  </row>
+  <row>
+    <index>10</index>
+    <address>Москва, ул. Твардовского, 12</address>
+  </row>
+  <row>
+    <index>11</index>
+    <address>Москва, ул. Большая Переяславская, 52с1</address>
+  </row>
+  <row>
+    <index>12</index>
+    <address>Зеленоград, 846</address>
+  </row>
+  <row>
+    <index>13</index>
+    <address>Зеленоград, 2036</address>
+  </row>
+  <row>
+    <index>14</index>
+    <address>Зеленоград, 845</address>
+  </row>
+  <row>
+    <index>15</index>
+    <address>Зеленоград, 2022</address>
+  </row>
+  <row>
+    <index>16</index>
+    <address>Зеленоград, 2008</address>
+  </row>
+  <row>
+    <index>17</index>
+    <address>Зеленоград, ул. Новокрюковская, 3А</address>
+  </row>
+  <row>
+    <index>18</index>
+    <address>Зеленоград, ул. Андреевка, 31</address>
+  </row>
+  <row>
+    <index>19</index>
+    <address>Москва, ул. Ландышевая, 12</address>
+  </row>
+  <row>
+    <index>20</index>
+    <address>Москва, ул. Бахрушина, 13</address>
+  </row>
+  <row>
+    <index>21</index>
+    <address>Москва, Скандинавский бульвар, 7</address>
+  </row>
+  <row>
+    <index>22</index>
+    <address>Москва, ул. Агрохимиков, 15 А</address>
+  </row>
+  <row>
+    <index>23</index>
+    <address>Москва, ул. Корнейчука, 31</address>
+  </row>
+  <row>
+    <index>24</index>
+    <address>Москва, ул. Красных зорь, 33а</address>
+  </row>
+  <row>
+    <index>25</index>
+    <address>Коммунарка, п. Сосенское, ул. Ясная, 11</address>
+  </row>
+  <row>
+    <index>26</index>
+    <address>Москва, ул. Киевская, 7</address>
+  </row>
+  <row>
+    <index>27</index>
+    <address>Москва, Шелепихинская наб, 34к3</address>
+  </row>
+  <row>
+    <index>28</index>
+    <address>Москва, Зелёный пр-т, 27а</address>
+  </row>
+  <row>
+    <index>29</index>
+    <address>Москва, ул. Академика Анохина, 10</address>
+  </row>
+  <row>
+    <index>30</index>
+    <address>Москва, ул. Эдварда грига, 17</address>
+  </row>
+  <row>
+    <index>31</index>
+    <address>Москва, ул. Маршала Тимошенко, 17к1</address>
+  </row>
+  <row>
+    <index>32</index>
+    <address>Москва, ул. Каховка, 23к5</address>
+  </row>
+  <row>
+    <index>33</index>
+    <address>Москва, ул. Дмитриевского, 16</address>
+  </row>
+  <row>
+    <index>34</index>
+    <address>Москва, ул. Поляны, 5</address>
+  </row>
+  <row>
+    <index>35</index>
+    <address>Москва, ул. Народного ополчения, 15к2</address>
+  </row>
+  <row>
+    <index>36</index>
+    <address>Москва, Мичуринский проспект, 80</address>
+  </row>
+  <row>
+    <index>37</index>
+    <address>Москва, ул. Героев Панфиловцев, 7к3</address>
+  </row>
+  <row>
+    <index>38</index>
+    <address>Москва, Севастопольский проспект, 28к8</address>
+  </row>
+  <row>
+    <index>39</index>
+    <address>Москва, ул. Эдварда Грига, 15</address>
+  </row>
+  <row>
+    <index>40</index>
+    <address>Москва, ул. Поляны, 5</address>
+  </row>
+  <row>
+    <index>41</index>
+    <address>Москва, ул. Римского-Корсакова, 11с12</address>
+  </row>
+  <row>
+    <index>42</index>
+    <address>Москва, ул. Поляны, 5ак1</address>
+  </row>
+  <row>
+    <index>43</index>
+    <address>Москва, ул. Красного маяка, 22а</address>
+  </row>
+  <row>
+    <index>44</index>
+    <address>Москва, ул. Римского-Корсакова, 11с12</address>
+  </row>
+  <row>
+    <index>45</index>
+    <address>Москва, Ленинский проспект, 127с1</address>
+  </row>
+  <row>
+    <index>46</index>
+    <address>Москва, ул. Вавилова, 5к1</address>
+  </row>
+  <row>
+    <index>47</index>
+    <address>Москва, Севастопольский проспект, 51</address>
+  </row>
+  <row>
+    <index>48</index>
+    <address>Москва, ул. Екатерины Будановой, 5с2</address>
+  </row>
+  <row>
+    <index>49</index>
+    <address>Москва, ул. Улофа Пальме, 1</address>
+  </row>
+  <row>
+    <index>50</index>
+    <address>Москва, ул. Поляны, 5ак2</address>
+  </row>
+  <row>
+    <index>51</index>
+    <address>Москва, ул. Твардовского, 12к2</address>
+  </row>
+  <row>
+    <index>52</index>
+    <address>Москва, ул. Удальцова, 1к1</address>
+  </row>
+  <row>
+    <index>53</index>
+    <address>Москва, Маршала Жукова проспект, 30</address>
+  </row>
+  <row>
+    <index>54</index>
+    <address>Москва, шоссе Энтузиастов, 1к2</address>
+  </row>
+  <row>
+    <index>55</index>
+    <address>Москва, Карамышевская наб, 2а</address>
+  </row>
+  <row>
+    <index>56</index>
+    <address>Москва, ул. Поляны, 5ак1</address>
+  </row>
+  <row>
+    <index>57</index>
+    <address>Москва, Ленинский проспект, 83б</address>
+  </row>
+  <row>
+    <index>58</index>
+    <address>Москва, ул. Василисы Кожиной, 13</address>
+  </row>
+  <row>
+    <index>59</index>
+    <address>Москва, Ленинский проспект, 83б</address>
+  </row>
+  <row>
+    <index>60</index>
+    <address>Москва, ул. Маршала Захарова, 2</address>
+  </row>
+  <row>
+    <index>61</index>
+    <address>Москва, Чапаевский переулок, 3</address>
+  </row>
+  <row>
+    <index>62</index>
+    <address>Москва, Коломенская набережная, 12</address>
+  </row>
+  <row>
+    <index>63</index>
+    <address>Зеленоград, к2036</address>
+  </row>
+  <row>
+    <index>64</index>
+    <address>Москва, Дмитровское шоссе, 163с17</address>
+  </row>
+  <row>
+    <index>65</index>
+    <address>Москва, Большой Козловский переулок, 13/17</address>
+  </row>
+  <row>
+    <index>66</index>
+    <address>Москва, 2-я Черногрязская улица, 11/15</address>
+  </row>
+  <row>
+    <index>67</index>
+    <address>Москва, ул. Орджоникидзе, 11с1/2</address>
+  </row>
+  <row>
+    <index>68</index>
+    <address>Москва, ул. Крылатские Холмы, 35А</address>
+  </row>
+  <row>
+    <index>69</index>
+    <address>Москва, ул. Татарская, 7с1</address>
+  </row>
+  <row>
+    <index>70</index>
+    <address>Москва, ул.Трофимова, 36к1</address>
+  </row>
+  <row>
+    <index>71</index>
+    <address>Москва, Бродников переулок, 10к1</address>
+  </row>
+  <row>
+    <index>72</index>
+    <address>Москва, Переведеновский переулок, 21с7</address>
+  </row>
+  <row>
+    <index>73</index>
+    <address>Москва, Рублёвское шоссе, 1</address>
+  </row>
+  <row>
+    <index>74</index>
+    <address>Москва, 5-я Северная линия</address>
+  </row>
+  <row>
+    <index>75</index>
+    <address>Москва, 1-й Нижний Михайловский проезд, 18с5</address>
+  </row>
+  <row>
+    <index>76</index>
+    <address>Москва, Варсонофьевский переулок, 6</address>
+  </row>
+  <row>
+    <index>77</index>
+    <address>Москва, 2-й Силикатный проезд, 9с2</address>
+  </row>
+  <row>
+    <index>78</index>
+    <address>Москва, Мичуринский проспект, 80</address>
+  </row>
+  <row>
+    <index>79</index>
+    <address>Москва, ул. Хавская, 3</address>
+  </row>
+  <row>
+    <index>80</index>
+    <address>Москва, Балаклавский проспект, 5</address>
+  </row>
+  <row>
+    <index>81</index>
+    <address>Москва, ул. Флотская, 2</address>
+  </row>
+  <row>
+    <index>82</index>
+    <address>Москва, Ленинградский проспект, 76к3</address>
+  </row>
+  <row>
+    <index>83</index>
+    <address>Москва, Каширское шоссе, 65к3</address>
+  </row>
+  <row>
+    <index>84</index>
+    <address>Москва, ул. Илимская, 5к2</address>
+  </row>
+  <row>
+    <index>85</index>
+    <address>Москва, Ленинский проспект, 99А</address>
+  </row>
+  <row>
+    <index>86</index>
+    <address>Москва, ул. Люблинская, 14А</address>
+  </row>
+  <row>
+    <index>87</index>
+    <address>Москва, Кутузовский проспект, 26к1</address>
+  </row>
+  <row>
+    <index>88</index>
+    <address>Москва, проспект 60-летия Октября, 19к1</address>
+  </row>
+  <row>
+    <index>89</index>
+    <address>Москва, Балаклавский проспект, 1</address>
+  </row>
+  <row>
+    <index>90</index>
+    <address>Москва, Зелёный проспект, 77к2</address>
+  </row>
+  <row>
+    <index>91</index>
+    <address>Москва, проезд Дежнёва, вл9</address>
+  </row>
+  <row>
+    <index>92</index>
+    <address>Москва, ул. Дубнинская, 75с9</address>
+  </row>
+  <row>
+    <index>93</index>
+    <address>Москва, Варшавское шоссе, 152к1</address>
+  </row>
+  <row>
+    <index>94</index>
+    <address>Москва, ул. МЖД Киевское 5-й км, 5</address>
+  </row>
+  <row>
+    <index>95</index>
+    <address>Москва, Коломенская набережная, 12</address>
+  </row>
+  <row>
+    <index>96</index>
+    <address>Москва, ул. Поликарпова, 23</address>
+  </row>
+  <row>
+    <index>97</index>
+    <address>Москва, Алтуфьевское шоссе, 5А</address>
+  </row>
+  <row>
+    <index>98</index>
+    <address>Москва, 5-й Войковский проезд, 5</address>
+  </row>
+</data>
